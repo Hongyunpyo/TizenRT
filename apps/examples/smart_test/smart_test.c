@@ -708,4 +708,5 @@ err_out_with_mem:
 	free(g_linePos);
 	free(g_lineLen);
 	return ret;
+	
 }
